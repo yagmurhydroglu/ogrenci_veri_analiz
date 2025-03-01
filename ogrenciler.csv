@@ -1,0 +1,51 @@
+Sorgu,İsim Soyisim,Şehir,Bölüm,Puan,Numara,Cinsiyet
+1,Ahmet Yılmaz,İstanbul,Bilgisayar Müh.,85,123456,Erkek
+2,Ayşe Kaya,Ankara,Elektrik Müh.,92,234567,Kadın
+3,Mehmet Demir,İzmir,Makine Müh.,78,345678,Erkek
+4,Fatma Çelik,Bursa,Kimya Müh.,65,456789,Kadın
+5,Ali Öztürk,Adana,İnşaat Müh.,88,567890,Erkek
+6,Zeynep Şahin,Antalya,Yazılım Müh.,95,678901,Kadın
+7,Hasan Arslan,Konya,Endüstri Müh.,73,789012,Erkek
+8,Elif Aydın,Mersin,Biyoloji,81,890123,Kadın
+9,Mustafa Koç,Samsun,Matematik,67,901234,Erkek
+10,Seda Aksoy,Trabzon,Fizik,90,123789,Kadın
+11,Ömer Çetin,Denizli,İstatistik,55,234890,Erkek
+12,Buse Erdem,Eskişehir,Psikoloji,99,345901,Kadın
+13,İbrahim Polat,Gaziantep,Tıp,84,456012,Erkek
+14,Nur Yıldız,Kayseri,Hukuk,77,567123,Kadın
+15,Yusuf Korkmaz,Malatya,Mimarlık,62,678234,Erkek
+16,Derya Yılmaz,Aydın,Sosyoloji,93,789345,Kadın
+17,Emre Doğan,Balıkesir,Tarih,70,890456,Erkek
+18,Selin Güneş,Manisa,Edebiyat,87,901567,Kadın
+19,Burak Özcan,Sakarya,İşletme,76,123678,Erkek
+20,Ece Kaplan,Çanakkale,İktisat,94,234789,Kadın
+21,Kaan Şen,Kocaeli,Spor Bilimleri,68,345890,Erkek
+22,Aslı Yavuz,Hatay,Gıda Müh.,83,456901,Kadın
+23,Mert Karaca,Diyarbakır,Çevre Müh.,91,567012,Erkek
+24,Ceren Aktaş,Erzurum,Veterinerlik,79,678123,Kadın
+25,Barış Tekin,Van,Jeoloji Müh.,64,789234,Erkek
+26,Tuğba Çalışkan,Şanlıurfa,Hemşirelik,96,890345,Kadın
+27,Kerem Bayrak,Rize,Ziraat Müh.,72,901456,Erkek
+28,İpek Sönmez,Muğla,Turizm,89,123567,Kadın
+29,Hakan Kılıç,Ordu,Denizcilik,58,234678,Erkek
+30,Gizem Eroğlu,Bilecik,Grafik Tasarım,97,345789,Kadın
+31,Can Gündüz,Tekirdağ,Makine Müh.,75,456890,Erkek
+32,Leyla Ateş,Uşak,Elektrik Müh.,82,567901,Kadın
+33,Tolga Bayram,Kırıkkale,Bilgisayar Müh.,69,678012,Erkek
+34,Defne Şimşek,Çorum,Kimya Müh.,86,789123,Kadın
+35,Eren Toprak,Afyon,İnşaat Müh.,63,890234,Erkek
+36,Lara Duran,Isparta,Yazılım Müh.,98,901345,Kadın
+37,Okan Çiftçi,Karabük,Endüstri Müh.,71,123456,Erkek
+38,Simge Ünal,Kastamonu,Biyoloji,80,234567,Kadın
+39,Arda Taş,Kırşehir,Matematik,66,345678,Erkek
+40,Melis Özdemir,Kütahya,Fizik,88,456789,Kadın
+41,Berk Uçar,Nevşehir,İstatistik,74,567890,Erkek
+42,Pınar Soyadı,Niğde,Psikoloji,91,678901,Kadın
+43,Umut Aslan,Osmaniye,Tıp,59,789012,Erkek
+44,Ezgi Gür,Sinop,Hukuk,85,890123,Kadın
+45,Deniz Ak,Sivas,Mimarlık,77,901234,Erkek
+46,Aylin Mert,Tokat,Sosyoloji,94,123789,Kadın
+47,Volkan Kocaman,Tunceli,Tarih,68,234890,Erkek
+48,Çağla Ekinci,Yozgat,Edebiyat,90,345901,Kadın
+49,Onur Dinç,Zonguldak,İşletme,73,456012,Erkek
+50,Nil Başaran,Amasya,İktisat,87,567123,Kadın
